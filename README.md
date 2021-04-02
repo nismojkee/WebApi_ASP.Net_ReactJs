@@ -11,6 +11,6 @@ For Test:
 * Run ASP.Net API (will open Browser with __http://localhost:5000/weatherforecast__ if all was made right)
 * Then you can open Postman or use Browser and link to API __http://localhost:5000/api/employee__ (as like in example)
 * Run Front End solutions by node using __npm start__ in console/terminal/PowerShell in __WebApi_ReactJS_FrontEnd__ folder
-* Make a some tests
+* Make some tests
 
 > "Coding hard is not a way to resolve troubles"
