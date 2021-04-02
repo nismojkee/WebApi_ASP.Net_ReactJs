@@ -1,6 +1,6 @@
 # WebApi_ASP.Net_ReactJs
 
-Web API application release on:
+Web API application released on:
 * FrontEnd - React JS + Bootstrap
 * BackEnd - ASP.Net Core + Newtonsoft
 * Database - Microsoft SQL Server Management Studio 2018
